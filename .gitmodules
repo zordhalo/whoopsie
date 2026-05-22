@@ -6,4 +6,4 @@
 	url = https://github.com/zordhalo/whoopsie-backend
 [submodule "gadgetbridge"]
 	path = gadgetbridge
-	url = https://github.com/zordhalo/Gadgetbridge
+	url = https://codeberg.org/Freeyourgadget/Gadgetbridge
