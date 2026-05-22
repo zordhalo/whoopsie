@@ -1,0 +1,6 @@
+[submodule "protocol"]
+	path = protocol
+	url = https://github.com/zordhalo/whoopsie-protocol
+[submodule "backend"]
+	path = backend
+	url = https://github.com/zordhalo/whoopsie-backend
