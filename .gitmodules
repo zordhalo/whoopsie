@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/zordhalo/whoopsie-backend
+[submodule "gadgetbridge"]
+	path = gadgetbridge
+	url = https://github.com/zordhalo/Gadgetbridge
